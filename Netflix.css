@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.a{
+width:80rem;
+height:600px;
+    background-size: cover;
+    background-image: url("netflix.jpg");
+    filter: blur(0.3px);
+}
+
+.b{
+    color: red;
+    font-size: 70px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    left:100px;
+    TOP:40px;
+
+}
+.c input{
+
+width: 9rem;
+height: 2rem;
+font-size:20px;
+font-family: Arial;
+position: absolute;
+top: 50px;
+right:20rem;
+border-radius: 10px;
+}
+.d button{
+    width: 9rem;
+    height: 2rem;
+    position: absolute;
+    top: 50px;
+    right: 10rem;
+    border-radius: 15px;
+    background-color: red;
+    color: white;
+    font-size: 20PX;
+}
+.h1{
+    color: white;
+    position: absolute;
+    margin: 190px 500px;
+}
+.p{
+    color: white;
+    position: absolute;
+    margin: 300px 500px;
+    font-size: 20px;
+}
+.box input{
+    width:280px;
+    height: 40px;
+    font-size: 20px;
+    position: absolute;
+    margin: 400px 470px;
+    border-radius: 10px;
+}
+.box1 button{
+    width:200px ;
+    height: 40px;
+    position: absolute;
+    margin:480px 500px ;
+    border-radius:10px ;
+    font-size: 20px;
+    background-color: red;
+    color: white;
+/* }
+
+.Netflix1{
+    height:800px;
+    width:80rem;
+    color: white;
+    font-size: 50px;
+    display: flex;
+    background-size: cover;
+    background-image: url("netflix2.jpg");
+} */
